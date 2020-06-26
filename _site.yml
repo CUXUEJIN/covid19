@@ -1,0 +1,10 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "新冠康复患者实际恢复情况"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<patientrehabilitation@gmail.com>
+output:
+  html_document:
+    theme: journal
